@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I am pronounce He, I am an aspiring developer. 
 <!--
 **araoyinbo/araoyinbo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
